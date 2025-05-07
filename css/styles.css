@@ -58,3 +58,24 @@ li {
     color: var(--main-txt-color);
     transition: 1s;
 }
+
+.footer {
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer--section > span {
+    color: var(--scnd-bg-color);
+}
+
+.box--list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box--list-item {
+    color: var(--scnd-bg-color);
+}
