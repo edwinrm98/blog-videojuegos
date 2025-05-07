@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
+<main class="main">
+    <article class="articles">
+        <ul class="articles--list">
+            <a href="#" class="articles--list-link"><li class="articles--list-text">Titulo de la entrada</li></a>
+            <a href="#" class="articles--list-link"><li class="articles--list-text">Titulo de la entrada</li></a>
+            <a href="#" class="articles--list-link"><li class="articles--list-text">Titulo de la entrada</li></a>
+            <a href="#" class="articles--list-link"><li class="articles--list-text">Titulo de la entrada</li></a>
+        </ul>
+    </article>
+</main>
